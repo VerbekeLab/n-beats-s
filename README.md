@@ -1,5 +1,5 @@
 # n-beats-s
-This repo contains a notebook with a PyTorch implementation of N-BEATS-S from the paper: Van Belle, J., Crevits, R., & Verbeke, W. (2022). Improving forecast stability using deep learning. International Journal of Forecasting. 
+This repo contains a notebook with a PyTorch implementation of N-BEATS-S from the paper: Van Belle, J., Crevits, R., & Verbeke, W. (2022). Improving forecast stability using deep learning. International Journal of Forecasting. \\
 See https://www.sciencedirect.com/science/article/pii/S016920702200098X.
 
 The code has been developed by Jente Van Belle, Ph.D.
